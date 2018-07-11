@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="q1">1. In which year Indian cricket team won the world cup?</string>
+    <string name="q1A">2005</string>
+    <string name="q1B">2017</string>
+    <string name="q1C">2011</string>
+    <string name="q1D">2000</string>
+    <string name="q2">2. When was soccer world cup held?</string>
+    <string name="q2A">2000</string>
+    <string name="q2B">2001</string>
+    <string name="q2C">2002</string>
+    <string name="q2D">2003</string>
+    <string name="q3">3. Who is present captain of Indian cricket team?</string>
+    <string name="q3A">MS Dhoni</string>
+    <string name="q3B">Virat Kohli</string>
+    <string name="q3C">Suresh Raina</string>
+    <string name="q3D">Shikhar Dhawan</string>
+    <string name="q4">4. Who is the present Indian football team goalkeeper?</string>
+    <string name="q4A">Gurpreet Singh Sandhu</string>
+    <string name="q4B">Sunil Chetri</string>
+    <string name="q4C">Narayan Das</string>
+    <string name="q4D">Lalruatthara</string>
+</resources>
